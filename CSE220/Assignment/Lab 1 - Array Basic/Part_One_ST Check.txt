@@ -1,0 +1,93 @@
+# This cell is the driver code
+# Run this cell after completion of above function.
+# You will see the status Accepted after completion if your code is correct.
+# If your function is wrong you will see wrong[correction percentage]
+# This is call unit testing if you are wondering the checking approach
+# No need to write or change any code here
+
+print("///  Test 01: Shift Left k cell  ///")
+source = [10,20,30,40,50,60]
+returned_value = shift_left(source, 3) # This should return [40, 50, 60, 0, 0, 0]
+unittest.output_test(returned_value, [40, 50, 60, 0, 0, 0])
+
+source = [10,20,30,40,50,60]
+returned_value = shift_left(source, 2) # This should return [30, 40, 50, 60, 0, 0]
+unittest.output_test(returned_value, [30, 40, 50, 60, 0, 0])
+
+source = [10,20,30,40,50,60]
+returned_value = shift_left(source, 4) # This should return [50, 60, 0, 0, 0, 0]
+unittest.output_test(returned_value, [50, 60, 0, 0, 0, 0])
+
+print("///  Test 02: Rotate Left k cell  ///")
+source = [10,20,30,40,50,60]
+returned_value = rotate_left(source, 3) # This should return [40, 50, 60, 10, 20, 30]
+unittest.output_test(returned_value, [40, 50, 60, 10, 20, 30])
+
+source = [10,20,30,40,50,60]
+returned_value = rotate_left(source, 2) # This should return [30, 40, 50, 60, 10, 20]
+unittest.output_test(returned_value, [30, 40, 50, 60, 10, 20])
+
+source = [10,20,30,40,50,60]
+returned_value = rotate_left(source, 4) # This should return [50, 60, 10, 20, 30, 40]
+unittest.output_test(returned_value, [50, 60, 10, 20, 30, 40])
+
+
+print("///  Test 03: Shift Right k cell  ///")
+source = [10,20,30,40,50,60]
+returned_value = shift_right(source, 3) # This should return [0, 0, 0, 10, 20, 30]
+unittest.output_test(returned_value, [0, 0, 0, 10, 20, 30])
+
+source = [10,20,30,40,50,60]
+returned_value = shift_right(source, 2) # This should return [0, 0, 10, 20, 30, 40]
+unittest.output_test(returned_value, [0, 0, 10, 20, 30, 40])
+
+source = [10,20,30,40,50,60]
+returned_value = shift_right(source, 4) # This should return [0, 0, 0, 0, 10, 20]
+unittest.output_test(returned_value, [0, 0, 0, 0, 10, 20])
+
+
+print("///  Test 04: Rotate Right k cell  ///")
+source = [10,20,30,40,50,60]
+returned_value = rotate_right(source, 3) # This should return [40, 50, 60, 10, 20, 30]
+unittest.output_test(returned_value, [40, 50, 60, 10, 20, 30])
+
+source = [10,20,30,40,50,60]
+returned_value = rotate_right(source, 2) # This should return [50, 60, 10, 20, 30, 40]
+unittest.output_test(returned_value, [50, 60, 10, 20, 30, 40])
+
+source = [10,20,30,40,50,60]
+returned_value = rotate_right(source, 4) # This should return [30, 40, 50, 60, 10, 20]
+unittest.output_test(returned_value, [30, 40, 50, 60, 10, 20])
+
+
+print("///  Test 05: Remove an element from an array  ///")
+source = [10,20,30,40,50,0,0]
+returned_value = remove(source, 2) # This should return [10, 20, 40, 50, 0, 0, 0]
+unittest.output_test(returned_value, [10, 20, 40, 50, 0, 0, 0])
+
+
+print("///  Test 06: Remove all occurrences of a particular element from an array  ///")
+source = [10,2,2,2,50,2,2,0,0]
+returned_value = remove_all(source, 2) # This should return [10, 30, 50, 0, 0, 0, 0, 0, 0]
+unittest.output_test(returned_value, [10, 50, 0, 0, 0, 0, 0, 0, 0])
+
+
+print("///  Test 07: Splitting an Array  ///")
+test_1 = [1, 1, 1, 2, 1] # Here splitting is possible as summation of [1, 1, 1] = summation of [2,1]
+returned_value = split_array(test_1) # This should return True
+test_2 = [2, 1, 1, 2, 1] # Here splitting is not possible
+returned_value = split_array(test_2) # This should return False
+test_3 = [10, 3, 1, 2, 10] # Here splitting is possible as summation of [10, 3] = summation of [1,2,10]
+returned_value = split_array(test_3) # This should return True
+unittest.output_test(split_array(test_1), True)
+unittest.output_test(split_array(test_2), False)
+unittest.output_test(split_array(test_3), True)
+
+
+print("///  Test 08: Max Bunch Count  ///")
+returned_value = max_bunch([1, 2, 2, 3, 4, 4]) # This should return 2
+unittest.output_test(returned_value, 2)
+returned_value = max_bunch([1, 1, 1, 1, 2, 2, 3, 4, 4, 4]) # This should return 4
+unittest.output_test(returned_value, 4)
+returned_value = max_bunch([1, 1, 2, 2, 2,2, 2, 1, 1, 1, 1]) # This should return 5
+unittest.output_test(returned_value, 5)
