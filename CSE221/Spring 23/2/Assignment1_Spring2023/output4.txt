@@ -1,0 +1,7 @@
+ID 4 Marks: 50
+ID 9 Marks: 50
+ID 7 Marks: 40
+ID 3 Marks: 20
+ID 1 Marks: 10
+ID 2 Marks: 10
+ID 5 Marks: 10

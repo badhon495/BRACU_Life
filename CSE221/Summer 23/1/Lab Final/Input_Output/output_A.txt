@@ -1,0 +1,3 @@
+the path from source 1 each node levelwise:
+1  2  3  4  5  6  7  8  12  11  10  9  13
+in order to reach 13 user has to move 3 floors from the source node 1

@@ -1,0 +1,2 @@
+traversing each node from the source 1 depthwise:
+1 2 5 11 6 3 7 10 8 9 4 12 13
