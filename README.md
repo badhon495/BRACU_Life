@@ -1,6 +1,6 @@
-### Welcome, Brave Coders!
+### Welcome, Brave Bracuian!
 
-Here lies the treasure trove of all things coding for this course. For those who seek the arcane wisdom of theory, venture forth to [This Link](https://relieved-colony-a7f.notion.site/BRACU-Resource-00424ae06e1043c7afd3e37d0e92b82d?pvs=4).
+Here lies the treasure trove of coding part of a course. For those who seek the arcane wisdom of theory, venture forth to [This Link](https://relieved-colony-a7f.notion.site/BRACU-Resource-00424ae06e1043c7afd3e37d0e92b82d?pvs=4).
 
 May these resources be the wind beneath your coding wings!
 
