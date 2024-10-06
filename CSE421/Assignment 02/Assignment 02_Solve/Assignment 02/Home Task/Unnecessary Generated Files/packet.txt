@@ -1,0 +1,56 @@
+No.     Time           Source                Destination           Protocol Length Info
+     95 10.013528436   192.168.31.47         34.223.124.45         HTTP     478    GET /online HTTP/1.1 
+
+Frame 95: 478 bytes on wire (3824 bits), 478 bytes captured (3824 bits) on interface enp8s0, id 0
+Ethernet II, Src: HewlettP_ed:18:82 (6c:c2:17:ed:18:82), Dst: BeijingX_b7:3e:92 (28:d1:27:b7:3e:92)
+Internet Protocol Version 4, Src: 192.168.31.47, Dst: 34.223.124.45
+Transmission Control Protocol, Src Port: 43176, Dst Port: 80, Seq: 1, Ack: 1, Len: 412
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     99 10.285815819   34.223.124.45         192.168.31.47         HTTP     617    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 99: 617 bytes on wire (4936 bits), 617 bytes captured (4936 bits) on interface enp8s0, id 0
+Ethernet II, Src: BeijingX_b7:3e:92 (28:d1:27:b7:3e:92), Dst: HewlettP_ed:18:82 (6c:c2:17:ed:18:82)
+Internet Protocol Version 4, Src: 34.223.124.45, Dst: 192.168.31.47
+Transmission Control Protocol, Src Port: 80, Dst Port: 43176, Seq: 1, Ack: 413, Len: 551
+Hypertext Transfer Protocol
+Line-based text data: text/html (7 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+    101 10.310968551   192.168.31.47         34.223.124.45         HTTP     479    GET /online/ HTTP/1.1 
+
+Frame 101: 479 bytes on wire (3832 bits), 479 bytes captured (3832 bits) on interface enp8s0, id 0
+Ethernet II, Src: HewlettP_ed:18:82 (6c:c2:17:ed:18:82), Dst: BeijingX_b7:3e:92 (28:d1:27:b7:3e:92)
+Internet Protocol Version 4, Src: 192.168.31.47, Dst: 34.223.124.45
+Transmission Control Protocol, Src Port: 43176, Dst Port: 80, Seq: 413, Ack: 552, Len: 413
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    108 10.584718352   34.223.124.45         192.168.31.47         HTTP     1585   HTTP/1.1 200 OK  (text/html)
+
+Frame 108: 1585 bytes on wire (12680 bits), 1585 bytes captured (12680 bits) on interface enp8s0, id 0
+Ethernet II, Src: BeijingX_b7:3e:92 (28:d1:27:b7:3e:92), Dst: HewlettP_ed:18:82 (6c:c2:17:ed:18:82)
+Internet Protocol Version 4, Src: 34.223.124.45, Dst: 192.168.31.47
+Transmission Control Protocol, Src Port: 80, Dst Port: 43176, Seq: 552, Ack: 826, Len: 1519
+Hypertext Transfer Protocol
+Line-based text data: text/html (79 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+    110 10.972270212   192.168.31.47         34.223.124.45         HTTP     429    GET /favicon.ico HTTP/1.1 
+
+Frame 110: 429 bytes on wire (3432 bits), 429 bytes captured (3432 bits) on interface enp8s0, id 0
+Ethernet II, Src: HewlettP_ed:18:82 (6c:c2:17:ed:18:82), Dst: BeijingX_b7:3e:92 (28:d1:27:b7:3e:92)
+Internet Protocol Version 4, Src: 192.168.31.47, Dst: 34.223.124.45
+Transmission Control Protocol, Src Port: 43176, Dst Port: 80, Seq: 826, Ack: 2071, Len: 363
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+    111 11.246973889   34.223.124.45         192.168.31.47         HTTP     482    HTTP/1.1 200 OK  (PNG)
+
+Frame 111: 482 bytes on wire (3856 bits), 482 bytes captured (3856 bits) on interface enp8s0, id 0
+Ethernet II, Src: BeijingX_b7:3e:92 (28:d1:27:b7:3e:92), Dst: HewlettP_ed:18:82 (6c:c2:17:ed:18:82)
+Internet Protocol Version 4, Src: 34.223.124.45, Dst: 192.168.31.47
+Transmission Control Protocol, Src Port: 80, Dst Port: 43176, Seq: 2071, Ack: 1189, Len: 416
+Hypertext Transfer Protocol
+Portable Network Graphics
