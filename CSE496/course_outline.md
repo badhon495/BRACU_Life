@@ -1,7 +1,7 @@
 ## Course Information
-Course Title: CSE496 - Ethecal Hacking \\
-Course Instructor: FLA, TSD \\
-Course Credits: 3.0 \\
+Course Title: CSE496 - Ethecal Hacking  
+Course Instructor: FLA, TSD  
+Course Credits: 3.0  
 Semester: Summer 2024 (It was a hectic semester due to the Student Protest, so syllabus was not followed properly)
 
 ## Course Outline
