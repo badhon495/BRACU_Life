@@ -13,6 +13,7 @@ May these resources be the wind beneath your coding wings!
 - **CSE221**: Triumphed in Summer '23
 - **CSE321 & CSE370**: Victorious in Fall '23
 - **CSE422, CSE427 & CSE484**: Achieved greatness in Spring '24
+- **CSE496, CSE330 & CSE421**: The final frontier in Summer '24
 
 ---
 

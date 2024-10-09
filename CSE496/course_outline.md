@@ -1,7 +1,8 @@
-## Course Title: CSE496 - Ethecal Hacking
-## Course Instructor: FLA, TSD
-## Course Credits: 3.0
-## Semester: Summer 2024 (It was a hectic semester due to the student protest, so syllabus was not followed properly)
+## Course Information
+Course Title: CSE496 - Ethecal Hacking
+Course Instructor: FLA, TSD
+Course Credits: 3.0
+Semester: Summer 2024 (It was a hectic semester due to the student protest, so syllabus was not followed properly)
 
 ## Course Outline
 1. Linux Fundamentals
@@ -45,4 +46,3 @@
 ## Course Project
 1. The students will be required to find and exploit a vulnerability in a web application or any other topic covered in the course.
 
-## There were no lab on this course but theory class worked as a lab.
