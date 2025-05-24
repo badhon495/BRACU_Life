@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fortune Generator</title>
+    <style>
+        #fortune-box {
+            width: 300px;
+            margin: 50px auto;
+            padding: 20px;
+            border: 2px solid #ccc;
+            text-align: center;
+        }
+        #controls {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .color-button {
+            width: 30px;
+            height: 30px;
+            margin: 5px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<div id="fortune-box"></div>
+
+<div id="controls">
+    <button class="color-button" style="background-color: red;" onclick="changeColors('red')"></button>
+    <button class="color-button" style="background-color: lightblue;" onclick="changeColors('lightblue')"></button>
+    <button class="color-button" style="background-color: green;" onclick="changeColors('green')"></button>
+    <button class="color-button" style="background-color: orange;" onclick="changeColors('orange')"></button>
+</div>
+
+<script>
+    const fortunes = [
+        "A beautiful, smart, and loving person will be coming into your life.",
+        "A dubious friend may be an enemy in camouflage.",
+        "A faithful friend is a strong defense.",
+        "A feather in the hand is better than a bird in the air.",
+        "A fresh start will put you on your way.",
+        "A friend asks only for your time not your money.",
+        "A golden egg of opportunity falls into your lap this month.",
+        "A hunch is creativity trying to tell you something.",
+        "A journey of a thousand miles begins with a single step.",
+        "A lifetime of happiness lies in store for you.",
+    ];
+
+    const fortuneBox = document.getElementById("fortune-box");
+
+    function displayFortune() {
+        const randomIndex = Math.floor(Math.random() * fortunes.length);
+        fortuneBox.textContent = fortunes[randomIndex];
+    }
+
+    function changeColors(color) {
+        fortuneBox.style.backgroundColor = color;
+        fortuneBox.style.borderColor = getContrastingColor(color, 'border'); // explicitly set border color
+        fortuneBox.style.color = getContrastingColor(color); // text color
+        changeFont();
+    }
+
+    function getContrastingColor(color, type) {
+        const textColors = {
+            red: 'white',
+            lightblue: 'black',
+            green: 'white',
+            orange: 'black'
+        };
+        const borderColors = {
+            red: 'blue',
+            lightblue: 'navy',
+            green: 'red',
+            orange: 'brown'
+        };
+        if (type === 'border') {
+            return borderColors[color] || 'black';
+        }
+        return textColors[color] || 'black';
+    }
+
+    function changeFont() {
+        const fontSizes = ["16px", "18px", "20px"];
+        const fontFamilies = ["Arial", "Verdana", "Georgia"];
+        const randomFontSize = fontSizes[Math.floor(Math.random() * fontSizes.length)];
+        const randomFontFamily = fontFamilies[Math.floor(Math.random() * fontFamilies.length)];
+        fortuneBox.style.fontSize = randomFontSize;
+        fortuneBox.style.fontFamily = randomFontFamily;
+    }
+
+    displayFortune();
+</script>
+
+</body>
+</html>

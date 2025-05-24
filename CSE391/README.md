@@ -1,0 +1,1 @@
+This course has three lab assignments and one project. All the lab assignments and the project can be found in a separate folder in the current directory.
