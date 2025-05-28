@@ -4,5 +4,5 @@ This assignment focuses on developing a web application using PHP and MySQL. You
 
 Please review the assignment question and all requirements before starting your work.
 
-**Reference Project:**  
+**Reference Assignment:**
 [Karigor](https://github.com/badhon495/Karigor)
