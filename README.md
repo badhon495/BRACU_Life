@@ -15,6 +15,7 @@ May these resources be the wind beneath your coding wings!
 - **CSE422, CSE427 & CSE484**: Achieved greatness in Spring '24
 - **CSE496, CSE330 & CSE421**: The final frontier in Summer '24
 - **CSE423 & CSE420**: The end of the road in Fall '24
+- **CSE391, CSE470 & CSE471**: The grand finale in Spring '25
 
 ---
 
