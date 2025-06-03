@@ -19,4 +19,4 @@ May these resources be the wind beneath your coding wings!
 
 ---
 
-May your code be bug-free and your logic ever sound. Happy coding!
+If you find this repository helpful, please consider giving it a 🌟! May your code be bug-free and your logic ever sound. Happy coding!
