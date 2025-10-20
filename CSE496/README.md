@@ -1,8 +1,21 @@
+# CSE496 - Ethical Hacking (3 credits)
+
+This course introduces students to ethical hacking and cybersecurity concepts. Students will learn various security testing techniques, vulnerability assessment, and penetration testing methodologies in a controlled, legal, and ethical manner. The course emphasizes defensive security practices and responsible disclosure.
+
+## Mark Distribution
+- Attendance: 5%
+- Quiz: 20%
+- Lab Performance: 25%
+- Midterm Exam: 20%
+- Final Exam: 30%
+
+## Course Resources
+- Theory: Theory materials and resources
+- Lab: You are right now in the lab repository.
+
 ## Course Information
-Course Title: CSE496 - Ethecal Hacking  
-Course Instructor: FLA, TSD  
-Course Credits: 3.0  
-Semester: Summer 2024 (It was a hectic semester due to the Student Protest, so syllabus was not followed properly)
+**Course Instructor:** FLA, TSD
+**Semester:** Summer 2024 (It was a hectic semester due to the Student Protest, so syllabus was not followed properly)
 
 ## Course Outline
 1. Linux Fundamentals
@@ -13,11 +26,10 @@ Semester: Summer 2024 (It was a hectic semester due to the Student Protest, so s
 6. File Upload Vulnerabilities
 7. Command Injection
 8. Cryptography
-9, Forensics
+9. Forensics
 10. Reverse Engineering
-12. Buffer Overflow
-13. Assembly Language
-
+11. Buffer Overflow
+12. Assembly Language
 
 ## PICOCTF Problems as Assignments
 1. IntroToBurp
@@ -40,9 +52,10 @@ Semester: Summer 2024 (It was a hectic semester due to the Student Protest, so s
 18. ASCII FTW
 19. Classic Crackme 0x100
 
-## We also participate in the following CTFs
+## CTF Participation
+We participated in the following Capture The Flag (CTF) competitions:
 1. PatriotCTF
 
 ## Course Project
-1. The students will be required to find and exploit a vulnerability in a web application or any other topic covered in the course.
+The students will be required to find and exploit a vulnerability in a web application or any other topic covered in the course.
 
