@@ -4,13 +4,14 @@ This course introduces students to the fundamental concepts, principles, and app
 
 ## Mark Distribution
 - Attendance: 5%
-- Quiz: 20%
-- Lab Performance: 25%
-- Midterm Exam: 20%
-- Final Exam: 30%
+- Quiz: 15%
+- Lab Performance: 20%
+- Lab Paper: 10%
+- Midterm Exam: 25%
+- Final Exam: 25%
 
 ## Course Resources
-- Theory: Theory materials and resources
+- Theory: [CSE427 Notion Page](https://www.notion.so/CSE427-a2fc6db29800426a9cc96234cd6e9944?pvs=12)
 - Lab: You are right now in the lab repository.
 
 ## Topics Covered

@@ -10,8 +10,8 @@ This course introduces students to blockchain technology and cryptocurrency syst
 - Final Exam: 30%
 
 ## Course Resources
-- Theory: Theory materials and resources
-- Lab: You are right now in the lab repository.
+- Theory: [CSE446 Notion Page](https://www.notion.so/CSE446-17b09bc77c5380639100da2bb95d85b1)
+- Lab: You will finish the lab tasks in the lab and submit it there. The labs are pretty easy to follow.
 
 ## Project
 **Project Repository:** [HealthCare-dApp](https://github.com/badhon495/HealthCare-dApp)

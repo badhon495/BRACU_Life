@@ -4,13 +4,14 @@ This course is an introduction to the basic principles, techniques, and applicat
 
 ## Mark Distribution
 - Attendance: 5%
-- Quiz: 20%
-- Lab Performance: 25%
+- Quiz: 15%
+- Assignment: 10%
+- Lab Performance: 20%
 - Midterm Exam: 20%
 - Final Exam: 30%
 
 ## Course Resources
-- Theory: Theory materials and resources
+- Theory: [CSE422 Notion Page](https://www.notion.so/CSE422-a60a979684c544b4ae48762814aa55a8)
 - Lab: You are right now in the lab repository.
 
 ## Topics Covered
@@ -23,3 +24,6 @@ This course is an introduction to the basic principles, techniques, and applicat
 - Heuristic vs. algorithmic programming
 - Cognitive simulations vs. machine intelligence
 - Expert systems, robotics and understanding
+
+## Notes
+I completed this course under the guidance of Md. Mustakin Alam (MUSA) sir, who is a very supportive and knowledgeable teacher. I learned a lot from him.
