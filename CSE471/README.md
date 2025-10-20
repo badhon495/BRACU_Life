@@ -4,13 +4,14 @@ This course introduces students to the principles and practices of system analys
 
 ## Mark Distribution
 - Attendance: 5%
-- Quiz: 20%
+- Assignment: 10%
+- Quiz: 10%
 - Lab Performance: 25%
-- Midterm Exam: 20%
-- Final Exam: 30%
+- Midterm Exam: 25%
+- Final Exam: 25%
 
 ## Course Resources
-- Theory: Theory materials and resources
+- Theory: [CSE471 Notion Page](https://www.notion.so/CSE471-802a33eee2804049bc5482e5ab01146f)
 - Lab: You are right now in the lab repository.
 
 ## Lab Mark Distribution Breakdown

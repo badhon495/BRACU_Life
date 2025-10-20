@@ -2,6 +2,8 @@
 
 Here lies the treasure trove of coding part of a course. For those who seek the arcane wisdom of theory, venture forth to [This Link](https://relieved-colony-a7f.notion.site/BRACU-Resource-00424ae06e1043c7afd3e37d0e92b82d?pvs=4).
 
+More resources are available [here](https://docs.google.com/spreadsheets/d/1_wSiAzh9iBO2Dktt_V1rGAyJGvRRr-TQyUzuLPNmFSo/edit?gid=0#gid=0).
+
 May these resources be the wind beneath your coding wings!
 
 ---
