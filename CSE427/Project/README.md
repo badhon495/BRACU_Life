@@ -10,3 +10,6 @@ In this course, you are required to write a full machine learning-based thesis p
 
 ## Video Presentation
 [Video Presentation](https://youtu.be/yxMzGuzGqA4)
+
+## Repository
+[Student Performance Prediction](https://github.com/badhon495/Student-Performance-Prediction)
