@@ -15,6 +15,7 @@ This course introduces students to cloud computing concepts, technologies, and s
 ## Course Resources
 - Theory: [CSE484 Notion Page](https://relieved-colony-a7f.notion.site/CSE484-d93a97ad8fe948e5968d474f90bee08d?pvs=74)
 - Lab: You are right now in the lab repository.
+- Final Project: [Network Intrusion Detection System](https://github.com/debjotyms/streamlit-ml-intrusion-detection-system)
 
 ## Lab Contents
 This repository contains all assignments and resources for the CSE484 (Cloud Computing) course.
